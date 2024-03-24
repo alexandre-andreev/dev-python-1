@@ -3,7 +3,7 @@ import pandas
 
 x = 100
 
-print (x)
+print (x**2)
 
 print (x+10)
 
