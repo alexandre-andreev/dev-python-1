@@ -10,3 +10,4 @@ print (x+10)
 
 for i in range(10):
     print (mt.sin(i))
+
